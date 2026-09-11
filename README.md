@@ -1,6 +1,5 @@
 # Worka
-Fully Furnished and Finished Programs
-
+Ongoing Builds
 [![LICENSE](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE)
 [![Usage](https://img.shields.io/badge/Usage-Permission%20Required-orange.svg)](LICENSE)
 [![Modification](https://img.shields.io/badge/Modification-Not%20Allowed-critical.svg)](LICENSE)
