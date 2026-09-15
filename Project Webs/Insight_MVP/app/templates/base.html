@@ -1,0 +1,5 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{{ title or 'Insight MVP' }}</title><link rel="stylesheet" href="/static/app.css"></head><body>
+<header><a class="brand" href="/">Insight MVP</a><nav>{% if user %}<a href="/dashboard">Dashboard</a><form action="/logout" method="post" class="inline"><button class="link">Log out</button></form>{% else %}<a href="/login">Log in</a><a class="button" href="/register">Create account</a>{% endif %}</nav></header>
+<main>{% block content %}{% endblock %}</main><footer>Neutral repair documentation software — not a law firm, court, or escrow institution.</footer>
+<script>document.addEventListener('DOMContentLoaded',()=>{const b=document.querySelector('[data-location]');if(b)b.addEventListener('click',()=>navigator.geolocation?.getCurrentPosition(p=>{document.querySelector('[name=latitude]').value=p.coords.latitude;document.querySelector('[name=longitude]').value=p.coords.longitude;b.textContent='Location added';},()=>{b.textContent='Location unavailable';}));});</script>
+</body></html>

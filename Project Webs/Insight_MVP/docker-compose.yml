@@ -1,0 +1,26 @@
+services:
+  db:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_DB: insight_mvp
+      POSTGRES_USER: insight_mvp
+      POSTGRES_PASSWORD: insight_mvp
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      SECRET_KEY: change-me-before-production
+      DATABASE_URL: postgresql+psycopg://insight_mvp:insight_mvp@db:5432/insight_mvp
+      UPLOAD_DIR: /app/uploads
+      LEGAL_RULESET: demo_us_general.json
+      PAYMENTS_MODE: demo
+    volumes:
+      - uploads:/app/uploads
+    depends_on:
+      - db
+volumes:
+  pgdata:
+  uploads:

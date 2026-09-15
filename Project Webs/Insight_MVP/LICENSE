@@ -1,0 +1,96 @@
+PROPRIETARY SOFTWARE LICENSE — ALL RIGHTS RESERVED
+Copyright (c) 2026 AnasimosM (the "Creator")
+
+Github Username: ([AnasimosM](https://github.com/AnasimosM))
+Contact: anasimosm.singularityhorizon@gmail.com
+
+This license governs all source code, compiled binaries, scripts, libraries, 
+APIs, documentation, configuration files, user interfaces, and associated 
+assets contained in or distributed with this repository (collectively, 
+the "Software").
+
+────────────────────────────────────────────────────────────
+1. ALL RIGHTS RESERVED
+────────────────────────────────────────────────────────────
+The Software is the exclusive intellectual property and trade secret of 
+the Creator. No rights, licenses, or permissions are granted except 
+those expressly stated in this document.
+
+────────────────────────────────────────────────────────────
+2. PRIOR WRITTEN PERMISSION REQUIRED
+────────────────────────────────────────────────────────────
+You may NOT run, execute, deploy, host, compile, copy, distribute, publish, 
+sublicense, transfer, or integrate the Software into any other project 
+without obtaining prior WRITTEN PERMISSION from the Creator.
+
+   Request permission at: anasimosm.singularityhorizon@gmail.com
+
+Any permission granted is personal, non-exclusive, non-transferable, and 
+revocable at the sole discretion of the Creator.
+
+────────────────────────────────────────────────────────────
+3. STRICT PROHIBITION ON MODIFICATION & REVERSE ENGINEERING
+────────────────────────────────────────────────────────────
+Even where permission to use the Software has been granted, you may NOT:
+   a) Edit, alter, refactor, adapt, or modify the source code;
+   b) Reverse engineer, decompile, disassemble, or attempt to derive the 
+      source code from any compiled binaries;
+   c) Translate, port to other languages, or create derivative works;
+   d) Extract, fork, or reuse components, functions, or algorithms;
+   e) Remove, alter, or bypass any license checks or security features.
+
+The Software must be executed and used strictly in its original, unmodified form.
+
+────────────────────────────────────────────────────────────
+4. MANDATORY ATTRIBUTION
+────────────────────────────────────────────────────────────
+In any approved deployment, documentation, user interface, or public display, 
+full and visible attribution must be given to the Creator:
+
+   " [Software Name] created by AnasimosM
+   Repository: [https://github.com/AnasimosM/SoftCodes]
+   Used with permission. All Rights Reserved."
+
+You may NOT remove, obscure, or alter any copyright notices, file headers, 
+or attribution files included in the Software.
+
+────────────────────────────────────────────────────────────
+5. NO COMMERCIAL USE
+────────────────────────────────────────────────────────────
+The Software may NOT be used in any commercial, revenue-generating, or 
+for-profit enterprise, including but not limited to:
+   a) Selling, leasing, or charging access fees for the Software or its outputs;
+   b) Internal business operations or enterprise workflows;
+   c) Software-as-a-Service (SaaS), cloud hosting, or API endpoints;
+   d) Client or freelance work;
+   e) Integration into commercial software products.
+
+Commercial licensing requires a separate paid agreement. 
+Inquire at: anasimosm.singularityhorizon@gmail.com
+
+────────────────────────────────────────────────────────────
+6. AI / MACHINE LEARNING RESTRICTION
+────────────────────────────────────────────────────────────
+The source code, logic, documentation, and data in this repository may NOT 
+be used as training, testing, or fine-tuning data for any artificial 
+intelligence, large language model (LLM), code-generation tool, or machine 
+learning system.
+
+────────────────────────────────────────────────────────────
+7. VIEWING RIGHTS ONLY
+────────────────────────────────────────────────────────────
+Public availability of this repository on GitHub is strictly for 
+portfolio, demonstration, and evaluation purposes. Reading or viewing the 
+source code does NOT grant any right to build, execute, or distribute it.
+
+────────────────────────────────────────────────────────────
+8. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+────────────────────────────────────────────────────────────
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. 
+
+IN NO EVENT SHALL THE CREATOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING 
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+DEALINGS IN THE SOFTWARE.
