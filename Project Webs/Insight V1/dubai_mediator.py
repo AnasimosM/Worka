@@ -1,7 +1,7 @@
 """Dubai Mediation Workspace: local-testing MVP.
 Install: python -m pip install 'Flask>=3.1,<4'
 Run: python dubai_mediator.py
-Open: http://127.0.0.1:5000
+Open: http://127.0.0.1:5000 
 Not production-ready; no government, payment, AI or signature integrations.
 """
 import os
